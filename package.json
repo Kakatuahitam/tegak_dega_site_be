@@ -1,0 +1,11 @@
+{
+  "name": "tegak_dega_site_be",
+  "version": "1.0.0",
+  "description": "Seleksi Bidang Web Development Unit Humas DKN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuda Kurnia Nurul Fikri <yudakurnia.nurulfikri@gmail.com>",
+  "license": "ISC"
+}
